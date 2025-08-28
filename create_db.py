@@ -6,4 +6,6 @@ cur = con.cursor()
 class DB_Manager:
     def __init__(self, database):
         self.database = database
-        
+
+
+
