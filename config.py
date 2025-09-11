@@ -1,5 +1,6 @@
-TOKEN = '8241176322:AAEUbTE4yJNrkjJ8KyT_7JhP9Df2HpQ77Rg'
+TOKEN = ''
 DATABASE = 'help.db'
+
 
 
 
