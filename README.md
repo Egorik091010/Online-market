@@ -1,4 +1,4 @@
-# Online-market
+# Online-manager
 Bot that answer to frequently asked questions from users
 
 
@@ -31,6 +31,7 @@ This bot is helping to users if they have any questions, and answer to frequentl
 ## Code that i have to write from zero
 > Commands in bot.py
 > Config.py 
+
 
 
 
